@@ -4,7 +4,7 @@
  
 
 
-|        Problem        |      Link      |  Status  |
+|        Problem        |       My Solutions     |  Status  |
 |-----------------------|:--------------:|---------:|
 | Solve Me First        | [click here](https://github.com/itallosavieira/hacker-rank-challenges/tree/master/algorithms/00_solve-me-first) | Solved ✔ |
 | Simple Array Sum      | [click here](https://github.com/itallosavieira/hacker-rank-challenges/tree/master/algorithms/01_simple-array-sum) | Solved ✔ |
