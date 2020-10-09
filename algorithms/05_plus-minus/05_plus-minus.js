@@ -13,7 +13,7 @@ function plusMinus(arr) {
       negativesRatio += onePartOfRatio;
     } else {
       zerosRatio += onePartOfRatio;
-    }
+    }cs
   }
 
   positivesRatio = positivesRatio.toFixed(6);
